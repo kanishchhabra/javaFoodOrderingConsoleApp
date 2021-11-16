@@ -1,0 +1,5 @@
+- Doesn't require special instructions.
+- The program is self-explanatory when it runs and all the errors have been caught and exceptions will be raised and printed accordingly.
+- The program has been tested as per the inputs shown in the assignment .pdf file.
+- PLEASE PUT THE "Restaurant.txt" and "Discounts.txt" FILE IN THE LOCATION WHERE IT CAN BE READ AS PER THE CODE, or alter the location accordingly in the code.
+- Please don't change the format of these two files.
